@@ -1,4 +1,4 @@
-Class 	Sex 	Age 	Survived 	freq
+Class 	Sex 	Age 	Survived 	freq --> This is a test
 1st	Male	child	No	0
 2nd	Male	child	No	0
 3rd	Male	child	No	35
